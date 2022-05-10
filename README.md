@@ -2,15 +2,15 @@
 
 #### Basic Programming:
 
-1. Print \"Hello World"
-2. Read a char, int and output the same
-3. Read two integers and output their sum, difference, multiplication
-4. Write a program to calculate the area of a circle given the radius
-5. Calculate simple interest given principle, duration and rate of interest
-6. Finding a remainder after dividing one number by another.
-7. Write a program to read a character and output its ASCII value.
-8. Write a program to read a floating point number and output its integer value.
-9. Write a program to read a small character and convert it into capital character.
+1. Print \"Hello World" [[Source Code]](https://github.com/codernakul/CP2017/blob/master/Basic-Programming/BP01.c)
+2. Read a char, int and output the same [[Source Code]](https://github.com/codernakul/CP2017/blob/master/Basic-Programming/BP02.c)
+3. Read two integers and output their sum, difference, multiplication [[Source Code]](https://github.com/codernakul/CP2017/blob/master/Basic-Programming/BP03.c)
+4. Write a program to calculate the area of a circle given the radius [[Source Code]](https://github.com/codernakul/CP2017/blob/master/Basic-Programming/BP04.c)
+5. Calculate simple interest given principle, duration and rate of interest [[Source Code]](https://github.com/codernakul/CP2017/blob/master/Basic-Programming/BP05.c)
+6. Finding a remainder after dividing one number by another. [[Source Code]](https://github.com/codernakul/CP2017/blob/master/Basic-Programming/BP06.c)
+7. Write a program to read a character and output its ASCII value. [[Source Code]](https://github.com/codernakul/CP2017/blob/master/Basic-Programming/BP07.c)
+8. Write a program to read a floating point number and output its integer value. [[Source Code]](https://github.com/codernakul/CP2017/blob/master/Basic-Programming/BP08.c)
+9. Write a program to read a small character and convert it into capital character. [[Source Code]](https://github.com/codernakul/CP2017/blob/master/Basic-Programming/BP09.c)
 
 
 #### Conditionals:
